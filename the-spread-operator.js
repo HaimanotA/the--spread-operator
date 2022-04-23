@@ -4,9 +4,14 @@
  */
 
 // No spread operator
-
+let arr1 = [1,2,3];
+let arr2 = arr1;
+console.log("second array:", arr2);
 // Copying an array
 
 // Copying an object
 
 // Copying only part of an array/object
+
+
+
